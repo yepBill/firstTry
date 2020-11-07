@@ -1,1 +1,2 @@
 Hello,gitHub!This is the first time that I connect to you.
+I'm yepBill-Wade,I want to push the hello.txt to gitHub.
